@@ -1,5 +1,5 @@
 tasks = []
-print("welcome to my ")
+print("welcome to my Terminal-based to-do-list")
 while True:
     print("\n===== TO-DO LIST =====")
     print("1. Add task")
