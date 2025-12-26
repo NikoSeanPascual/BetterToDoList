@@ -23,4 +23,3 @@ A To Do List app made using Ctk (Custom Tkinter), I tried making it look great b
    
 ```bash
 python main.py
-****
